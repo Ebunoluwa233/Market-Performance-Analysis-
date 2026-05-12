@@ -1,5 +1,5 @@
 # Market-Performance-Analysis-
-Interactive Power Bi dashboard analyzing market performance trends, sentiment, monthly activity, and financial metrics.
+Interactive Power BI dashboard analyzing market performance trends, sentiment, monthly activity, and financial metrics.
 
 
 ## Tool Used 
@@ -7,11 +7,11 @@ Interactive Power Bi dashboard analyzing market performance trends, sentiment, m
 
 ## Features
 -KPI Cards
--Trend analysis
-financial insights
-market performance tracking
+-Trend Analysis
+-Financial Insights
+-Market Performance Tracking
 
-## project objective
+## Project Objective
 To analyze market trends and support data driven decision making 
 
 ## Author
