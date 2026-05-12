@@ -16,3 +16,7 @@ To analyze market trends and support data driven decision making
 
 ## Author
 Kamolideen Khadijat Ebunoluwa 
+
+## Dashboard Preview
+
+![Dashboard Screenshot] (Market performance Analysis. jpg)
