@@ -19,4 +19,4 @@ Kamolideen Khadijat Ebunoluwa
 
 ## Dashboard Preview
 
-![Dashboard Screenshot] (Market performance Analysis. jpg)
+![Dashboard ] (Market performance Analysis. pdf)
